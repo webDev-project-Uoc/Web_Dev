@@ -49,7 +49,7 @@ background: #eee;
         <form method="POST" action="" >
           <!-- username input -->
           <div data-mdb-input-init class="form-outline mb-4">
-              <label class="form-label" for="username">Email User Name</label>
+              <label class="form-label" for="username"> User Name</label>
             <input type="text" id="username" class="form-control form-control-lg" name="username" required />
             
           </div>
