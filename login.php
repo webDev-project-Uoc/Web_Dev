@@ -47,9 +47,9 @@ background: #eee;
       </div>
       <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-1">
         <form method="POST" action="" >
-          <!-- Email input -->
+          <!-- username input -->
           <div data-mdb-input-init class="form-outline mb-4">
-              <label class="form-label" for="username">Email address</label>
+              <label class="form-label" for="username">Email User Name</label>
             <input type="text" id="username" class="form-control form-control-lg" name="username" required />
             
           </div>
